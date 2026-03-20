@@ -234,7 +234,7 @@ C_final = max(1.0, 1 + 0.15×D_s − 0.02×N_c + S_i) × I_exp × γ_m
 
 ## Application Architecture
 
-![Application Architecture Diagram](docs/app_architecture.png)
+![Application Architecture Diagram](https://raw.githubusercontent.com/3JS-DevTrails/main/main/docs/app_architecture.png)
 
 The platform is a React-based SPA for delivery partners, backed by a Flask REST API server, with MongoDB for persistence. External data sources (Weather, Maps, Traffic, Platform) feed into the AI layer for disruption detection and income modeling.
 
@@ -242,7 +242,7 @@ The platform is a React-based SPA for delivery partners, backed by a Flask REST 
 
 ## AI Architecture
 
-![AI Architecture Diagram](docs/ai_architecture.jpeg)
+![AI Architecture](https://raw.githubusercontent.com/3JS-DevTrails/main/main/docs/ai_architecture.png)
 
 ---
 
