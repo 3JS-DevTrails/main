@@ -243,7 +243,7 @@ The platform is a React-based SPA for delivery partners, backed by a Flask REST 
 
 ## AI Architecture
 
-![AI Architecture Diagram](docs/ai%20architecture.png)
+![AI Architecture Diagram](docs/ai%20architecture.jpeg)
 
 ---
 
