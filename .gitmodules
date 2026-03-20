@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/3JS-DevTrails/frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/3JS-DevTrails/backend.git
