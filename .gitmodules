@@ -4,3 +4,7 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/3JS-DevTrails/backend.git
+<<<<<<< HEAD
+=======
+	branch = feat/base-requirements
+>>>>>>> fe6d317 (Updated backend to cleaned feat/base-requirements branch and updated frontend)
